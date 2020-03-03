@@ -1,3 +1,7 @@
 Este é o exemplo de um ficheio
 
+
 Estou a fazer alterações ao fiheiro
+
+
+Alterações efetuadas no branch novafeature
