@@ -5,3 +5,7 @@ Estou a fazer alterações ao fiheiro
 
 
 Alterações efetuadas no branch novafeature
+
+Alteraçoes em master
+
+
